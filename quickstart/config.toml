@@ -1,0 +1,36 @@
+baseurl                  = "https://example.com/"           # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Livia Rivai"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006"
+    favicon              = ""
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Livia Rivai's Personal Website. made with love and care."
+
+# Metadata for Open Graph and Twitter
+    description          = "Livia's personal site."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Livia's Website"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "/portfolio"
+    text = "portfolio"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who is Livia?"
+
+[imaging]
+    quality = 75

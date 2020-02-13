@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Livia Rivai</title>
-    <link>https://example.com/tags/blog/</link>
+    <link>https://reverent-wright-7dd48c.netlify.com/tags/blog/</link>
     <description>Recent content in blog on Livia Rivai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reverent-wright-7dd48c.netlify.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mlem</title>
-      <link>https://example.com/posts/image-post/</link>
+      <link>https://reverent-wright-7dd48c.netlify.com/posts/image-post/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/image-post/</guid>
+      <guid>https://reverent-wright-7dd48c.netlify.com/posts/image-post/</guid>
       <description>mlem mlem</description>
     </item>
     
